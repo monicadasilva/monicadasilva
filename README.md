@@ -1,5 +1,5 @@
 ## Olá, eu sou a Mônica e este é meu repositório 
- <div style="display: inline_block">
+ <div style="display: flex">
   <a href="https://github.com/monicadasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicadasilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicadasilva&layout=compact&langs_count=8&theme=cobalt"/>   
