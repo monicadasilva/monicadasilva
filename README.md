@@ -6,7 +6,7 @@
 </div>
 
  ## Sobre Mim
-- 🎓 &nbsp; Atualmente estudando Python
+- 🎓 &nbsp; Atualmente estudando Clojure Kafka e Cassandra
 - 🌱 &nbsp; No tempo livre gosto de ler e ouvir música.
 
  
@@ -18,7 +18,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Clojure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
+  <img align="center" alt="Kafka" height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
   
   ##
